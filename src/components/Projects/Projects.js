@@ -57,7 +57,7 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href="https://www.youtube.com/watch?v=KoI12Oy0Ld0">Watch Now</ExternalLinks>
+            <ExternalLinks href={p.visit}>Watch Now</ExternalLinks>
             </UtilityList>
           </BlogCard>
           

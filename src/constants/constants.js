@@ -8,15 +8,6 @@ export const projects = [
     visit: 'https://moonslght.netlify.app/',
     id: 0,
   },
-  {
-    title: 'First HTML Website',
-    description: "First Website i ever made using HTML, CSS, Java It was a challenge at first but I became self explanitory ",
-      image: '/images/htmlwebsite.png',
-      tags: ['HTML', 'JavaScript', 'CSS'],
-    source: 'https://google.com',
-    visit: 'https://moonslght.netlify.app/',
-    id: 0,
-  },
 ];
 
 export const TimeLineData = [

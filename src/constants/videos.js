@@ -12,7 +12,7 @@ export const videos = [
       description: "Apex legends- Hasley",
         image: '/images/apexvid2.png',
         tags: ['Primeire Pro'],
-      visit: 'https://www.youtube.com/watch?v=gz8dzsd1wZY',
+      visit: 'https://www.youtube.com/watch?v=gz8dzsd1wZY&t=76s',
       id: 0,
     },
   ];
