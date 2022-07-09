@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/htmlasicc.png',
       tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/Moonsight91/HTML-Asicc',
-    visit: 'https://app.netlify.com/sites/glistening-truffle-2c5d70/overview',
+    visit: 'https://asicchtml2.netlify.app/',
     id: 0,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/solanafaucet.png',
       tags: ['Next.js', 'JavaScript', 'CSS'],
     source: 'https://github.com/Moonsight91/Solana-Faucet',
-    visit: 'https://solana-faucet-r8kdj7q17-moonsight.vercel.app/',
+    visit: 'https://asiccsolfaucet.vercel.app/',
     id: 0,
   },
   {
