@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/htmlwebsite.png',
       tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/Moonsight91/First-HTML-Portolio',
-    visit: 'htps://moonslght.netlify.app/',
+    visit: 'https://moonslght.netlify.app/',
     id: 0,
   },
   {
