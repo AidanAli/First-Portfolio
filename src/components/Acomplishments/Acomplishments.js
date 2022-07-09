@@ -1,11 +1,9 @@
 import React from 'react';
-
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 10, text: 'Years Experience Fishing Florida Waters'},
-  { number: 1000, text: 'Hours of MMORPG/FPS Game Experience Raid ', },
+  { number: 1000, text: 'Hours of MMORPG/FPS ', },
 ];
 
 const Acomplishments = () => (
