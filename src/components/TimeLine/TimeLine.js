@@ -48,8 +48,9 @@ const Timeline = () => {
       <SectionText>
       My name is Asicc an here's a few things about me ... I am a goal Driven person who Loves Gaming and has Current interests in Learning Various Programming Languages
       as a Hobby. maybe even Freelance !! !! I'm planning to Rebuild my Guild on Archeworld When it's Released But i'm currently also Looking for people
-      for a simple small community <a href='https://discord.gg/5DJHgm4wrM'><Button>Join The Community</Button></a>
+      for a simple small community 
       </SectionText>
+      <a href='https://discord.gg/5DJHgm4wrM'><Button>Join The Community</Button></a>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
