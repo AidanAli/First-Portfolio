@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-
+import Button from '../../styles/GlobalComponents/Button';
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
@@ -46,7 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I'm an Avid Gamer and Entry lvl Programmer but i do like to go Fishing. I have Goals of beoming a Real Estat Agent so i can Buil my Self as an Investor... Another goal of mine is to Create Something within the Crypto-Blockchain Space.
+      My name is Asicc an here's a few things about me ... I am a goal Driven person who Loves Gaming and has Current interests in Learning Various Programming Languages
+      as a Hobby. maybe even Freelance !! !! I'm planning to Rebuild my Guild on Archeworld When it's Released But i'm currently also Looking for people
+      for a simple small community <a href='https://discord.gg/5DJHgm4wrM'><Button>Join The Community</Button></a>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

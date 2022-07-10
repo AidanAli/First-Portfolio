@@ -3,14 +3,16 @@ import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
+
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Experience</SectionTitle>
     <SectionText>
-      As far as Experience I have Experience in Java, and Html, I have Experience With Adobe Premiere Pro <b>
-      <a> HELO</a>
-      </b>
+      <li>○ Premiere-Pro</li>
+      <li>○ HTML</li>
+      <li>○ Java-Script</li>
+      <li>○ Next.js/React.js(Entrylvl)</li>
     </SectionText>
     <List>
       <ListItem>
