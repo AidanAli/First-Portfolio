@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/htmlasicc.png',
       tags: ['HTML', 'JavaScript', 'CSS'],
     source: 'https://github.com/Moonsight91/HTML-Asicc',
-    visit: 'https://asicchtml2.netlify.app/',
+    visit: 'https://asicc.netlify.app/',
     id: 0,
   },
   {
