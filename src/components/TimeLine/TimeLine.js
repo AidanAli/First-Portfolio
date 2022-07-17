@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      My name is Asicc an here's a few things about me ... I am a goal Driven person who Loves Gaming and has Current interests in Learning Various Programming Languages
+      My name is Moonsight an here's a few things about me ... I am a goal Driven person who Loves Gaming and has Current interests in Learning Various Programming Languages
       as a Hobby. maybe even Freelance !! !! I'm planning to Rebuild my Guild on Archeworld When it's Released But i'm currently also Looking for people
       for a simple small community 
       </SectionText>
